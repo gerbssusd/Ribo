@@ -21,9 +21,9 @@ CC BY 4.0
 
 ## Slide 2: Diagrams of Plot‑Operations
 
-![Fig. 2.2 – Events in time only](/assets/images/fig2_2.png)  
-![Fig. 2.3 – Events with time + cause](/assets/images/fig2_3.png)  
-![Fig. 2.4 – Altered order, cause + reordering](/assets/images/fig2_4.png)  
+![Fig. 2.2 – Events in time only](/images/fig2_2.png)  
+![Fig. 2.3 – Events with time + cause](/images/fig2_3.png)  
+![Fig. 2.4 – Altered order, cause + reordering](/images/fig2_4.png)  
 
 - **Fig 2.2**: Events only ordered in time; no explicit causality emphasized. :contentReference[oaicite:4]{index=4}  
 - **Fig 2.3**: Adds causal links between events (curved lines). :contentReference[oaicite:5]{index=5}  
@@ -63,7 +63,7 @@ CC BY 4.0
 
 ## Slide 6: Freytag’s Pyramid & Alternative Plot Models
 
-![Fig. 2.9 – Freytag’s Pyramid](/assets/images/fig2_9.png)
+![Fig. 2.9 – Freytag’s Pyramid](/images/fig2_9.png)
 
 - Freytag’s model: exposition → rising action → climax → falling action → resolution. :contentReference[oaicite:14]{index=14}  
 - Alternative models: growth, journey, illumination; plots that do *not* resolve neatly. :contentReference[oaicite:15]{index=15}  
