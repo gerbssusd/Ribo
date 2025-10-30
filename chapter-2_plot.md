@@ -7,15 +7,15 @@ paginate: true
 # Chapter 2: Plot  
 *Prose Fiction: An Introduction to the Semiotics of Narrative* — Ignasi Ribó  
 CC BY 4.0  
-(2019) :contentReference[oaicite:0]{index=0}
+(2019)
 
 ---
 
 ## Slide 1: Story vs Plot
 
-- **Story** = events in chronological order; changes of state in storyworld. :contentReference[oaicite:1]{index=1}  
-- **Plot** (or emplotment) = how narrator arranges those events: order, causality, duration, prominence. :contentReference[oaicite:2]{index=2}  
-- Example: George → dragon → rescue → marriage. The story may simply list them; plot arranges with cause / reordering. :contentReference[oaicite:3]{index=3}  
+- **Story** = events in chronological order; changes of state in storyworld.  
+- **Plot** (or emplotment) = how narrator arranges those events: order, causality, duration, prominence.
+- Example: George → dragon → rescue → marriage. The story may simply list them; plot arranges with cause / reordering. 
 
 ---
 
@@ -25,9 +25,9 @@ CC BY 4.0
 ![Fig. 2.3 – Events with time + cause](/images/fig2_3.png)  
 ![Fig. 2.4 – Altered order, cause + reordering](/images/fig2_4.png)  
 
-- **Fig 2.2**: Events only ordered in time; no explicit causality emphasized. :contentReference[oaicite:4]{index=4}  
-- **Fig 2.3**: Adds causal links between events (curved lines). :contentReference[oaicite:5]{index=5}  
-- **Fig 2.4**: Reordering via the narrator: begins with wedding, then explains preceding events. Plot ≠ story. :contentReference[oaicite:6]{index=6}  
+- **Fig 2.2**: Events only ordered in time; no explicit causality emphasized.
+- **Fig 2.3**: Adds causal links between events (curved lines). 
+- **Fig 2.4**: Reordering via the narrator: begins with wedding, then explains preceding events. Plot ≠ story.
 
 ---
 
@@ -41,23 +41,23 @@ CC BY 4.0
 | **Connection** | How causally or thematically events are linked | Makes plot coherent or emphasizes causal structure     |
 | **Relevance**  | What is included / omitted, what is emphasised | Controls focus, reader expectations                   |
 
-- These are the tools that convert a raw story into a plot. :contentReference[oaicite:7]{index=7}  
+- These are the tools that convert a raw story into a plot. 
 
 ---
 
 ## Slide 4: Structure & Conflict
 
-- Many plots use **beginning**, **middle**, **end** structures to build coherence. :contentReference[oaicite:8]{index=8}  
-- **Conflict**: external (e.g. danger, characters) or internal (psychological, moral). :contentReference[oaicite:9]{index=9}  
-- **Resolution** often follows conflict: might be success, failure, or complex/ambiguous outcome. :contentReference[oaicite:10]{index=10}  
+- Many plots use **beginning**, **middle**, **end** structures to build coherence. 
+- **Conflict**: external (e.g. danger, characters) or internal (psychological, moral). 
+- **Resolution** often follows conflict: might be success, failure, or complex/ambiguous outcome.
 
 ---
 
 ## Slide 5: Suspense & Surprise
 
-- **Suspense**: when the reader anticipates something, knows more than characters, or foresees potential outcome. :contentReference[oaicite:11]{index=11}  
-- **Surprise**: something unexpected, reversal, twist. Depends on what is withheld or released. :contentReference[oaicite:12]{index=12}  
-- Emplotment choices (order, duration, etc.) strongly affect how suspense & surprise work. :contentReference[oaicite:13]{index=13}  
+- **Suspense**: when the reader anticipates something, knows more than characters, or foresees potential outcome. 
+- **Surprise**: something unexpected, reversal, twist. Depends on what is withheld or released. 
+- Emplotment choices (order, duration, etc.) strongly affect how suspense & surprise work. 
 
 ---
 
@@ -65,16 +65,16 @@ CC BY 4.0
 
 ![Fig. 2.9 – Freytag’s Pyramid](/images/fig2_9.png)
 
-- Freytag’s model: exposition → rising action → climax → falling action → resolution. :contentReference[oaicite:14]{index=14}  
-- Alternative models: growth, journey, illumination; plots that do *not* resolve neatly. :contentReference[oaicite:15]{index=15}  
+- Freytag’s model: exposition → rising action → climax → falling action → resolution.
+- Alternative models: growth, journey, illumination; plots that do *not* resolve neatly. 
 
 ---
 
 ## Slide 7: Illustrative Examples & Figures
 
-- **Fig 2.5**: *St. George and the Dragon* — classic conflict motif. :contentReference[oaicite:16]{index=16}  
-- **Fig 2.1**: Bust of Aristotle – invoking the classical tradition of plot theory. :contentReference[oaicite:17]{index=17}  
-- **Fig 2.6‑2.8**: Robinson Crusoe, Hansel & Gretel, Oedipus & the Sphinx – examples of plot structures and dramatic conflict. :contentReference[oaicite:18]{index=18}  
+- **Fig 2.5**: *St. George and the Dragon* — classic conflict motif.  
+- **Fig 2.1**: Bust of Aristotle – invoking the classical tradition of plot theory.
+- **Fig 2.6‑2.8**: Robinson Crusoe, Hansel & Gretel, Oedipus & the Sphinx – examples of plot structures and dramatic conflict. 
 
 ---
 
